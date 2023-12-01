@@ -1,4 +1,4 @@
-# Pranith Kumar  : An tech enthusiast 
+# Pranith Kumar  : A tech enthusiast 
 
 📧 Email: pranithkumar.8802@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/pranithAiWiz/](https://www.linkedin.com/in/pranithkumar49)  
