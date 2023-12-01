@@ -62,7 +62,7 @@
 <img src = "https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=md,blender&theme=dark">
+<img src = "https://skillicons.dev/icons?i=blender&theme=dark">
 </td>
 </tr>
 </table>
