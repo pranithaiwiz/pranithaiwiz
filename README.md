@@ -40,6 +40,7 @@
 <table>
 <tr>
 <td>
+<strong>Backend & Databases</strong>
 <td>
 <strong>API & Testing</strong>
 </td>
@@ -61,6 +62,8 @@
 <img src = "https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark">
 </td>
 <td>
+<img src = "https://skillicons.dev/icons?i=md,blender&theme=dark">
+</td>
 </tr>
 </table>
 <hr>
