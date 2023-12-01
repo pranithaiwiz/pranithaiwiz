@@ -73,7 +73,7 @@
 <tr>
 <td colspan = "2">
 <a href = "https://taufeeq.bio.link">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranithaiwiz&bg_color=000000&color=ffffff&line=00ff1e&point=a09898&area=true&hide_border=true)]>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranithaiwiz&bg_color=000000&color=ffffff&line=00ff1e&point=a09898&area=true&hide_border=true)](https://github.com/pranithaiwiz/github-readme-activity-graph")]
 </a>
 </td>
 </tr>
