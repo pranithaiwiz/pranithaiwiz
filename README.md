@@ -1,4 +1,4 @@
-# Pranith Kumar  : A tech enthusiast 
+# Pranith Kumar : A tech enthusiast 
 
 📧 Email: pranithkumar.8802@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/pranithAiWiz/](https://www.linkedin.com/in/pranithkumar49)  
@@ -79,3 +79,11 @@
 </tr>
 </table>
 
+
+## Certifications :medal_military:
+- The Complete 2023 Web Development Bootcamp (Free CodeCamp)
+- The Complete Python Bootcamp From Zero to Hero in Python
+- JavaScript Programming - Full Course
+- Cpp from Code with Harry 
+- Complete Web Designer in 2023: UI/UX, Figma, +more
+  (all courses were from YouTube)
