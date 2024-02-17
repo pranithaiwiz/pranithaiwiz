@@ -3,6 +3,9 @@
 📧 Email: pranithkumar.8802@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/pranithAiWiz/](https://www.linkedin.com/in/pranithkumar49)  
 💻 GitHub: [github.com/pranithaiwiz](https://github.com/pranithaiwiz)
+<br>
+- 🌱 I’m currently learning **React and python. As a first-year engineering undergrad, I also learned C++, C, and Javascript .**
+<br>
 ## ⚡ Languages, Tools and Technologies
 
 <table> 
