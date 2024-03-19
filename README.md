@@ -84,7 +84,7 @@
 
 
 ## Certifications :medal_military:
-- The Complete 2023 Web Development Bootcamp (Free CodeCamp)
+- The Complete 2024 Web Development Bootcamp (Udemy)
 - The Complete Python Bootcamp From Zero to Hero in Python
 - JavaScript Programming - Full Course
 - Cpp from Code with Harry 
