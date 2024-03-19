@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,sql&theme=dark">
+<img src = "https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=dark">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=postman&theme=dark">
